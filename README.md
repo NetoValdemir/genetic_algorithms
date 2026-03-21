@@ -1,5 +1,5 @@
 # [ESTUDO] Algoritmos Genéticos - Combinação de cores e escala
-Estudo sobre algoritmos genéticos na Unity. Análise evolutiva dos indivíduos baseada na combinação das suas cores e tamanhos diferentes. Baseado nos exemplos da **Dra Penny de Byl**.
+Estudo sobre algoritmos genéticos na Unity. Análise evolutiva dos indivíduos baseada na combinação das suas cores e tamanhos diferentes. Baseado nos exemplos da ***Dra Penny de Byl***.
 
 ## Basic Movement Character - Gamepad
 
