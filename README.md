@@ -4,5 +4,5 @@ Estudo sobre algoritmos genéticos na Unity. Análise evolutiva dos indivíduos 
 ## Basic Movement Character - Gamepad
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/22e50fb6-f69b-45be-bce0-429974ebc0d0" width="80%" />
+  <img src="https://github.com/user-attachments/assets/22e50fb6-f69b-45be-bce0-429974ebc0d0" width="70%" />
 </div>
